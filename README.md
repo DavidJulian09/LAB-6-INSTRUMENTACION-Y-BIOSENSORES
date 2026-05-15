@@ -23,7 +23,7 @@ Operar con el simulador Pronk OxSim (OX-1) y el monitor de signos vitales uMEC 1
 
 ### A) Modo "monitor" en el uMEC 100
 
-El BeneHeart D30 es un equipo múltiple funciones que integra monitorización de signos vitales, desfibrilación, marcapasos externo, alertas, entre otros; el modo "monitor" es el estado operativo en el que el equipo actúa exclusivamente como monitor de parámetros fisiológicos (ECG, SpO₂, NIBP, CO₂, respiración...), es decir, es el modo estándar para la vigilancia continua del paciente. Como otras caracteísticas de este modo, es la presencia de alarmas fisiológicas y técnicas completamente configurables en cada parámetro [2]. Ahora bien, el procedimiento paso a paso para entrar en modo “Monitor” es simple, pues es el modo que está pre-establecido al momento de iniciar el equipo, si se desea agregar otros ajustes al modose selecciona en la pantalla tactil la opción monitor cerca de la esquina superior izquierda, donde se mostrarán más opciones como se muestra a continuación: 
+El uMEC 100 es un equipo múltiple funciones que integra monitorización de signos vitales, desfibrilación, marcapasos externo, alertas, entre otros; el modo "monitor" es el estado operativo en el que el equipo actúa exclusivamente como monitor de parámetros fisiológicos (ECG, SpO₂, NIBP, CO₂, respiración...), es decir, es el modo estándar para la vigilancia continua del paciente. Como otras caracteísticas de este modo, es la presencia de alarmas fisiológicas y técnicas completamente configurables en cada parámetro [2]. Ahora bien, el procedimiento paso a paso para entrar en modo “Monitor” es simple, pues es el modo que está pre-establecido al momento de iniciar el equipo, si se desea agregar otros ajustes al modose selecciona en la pantalla tactil la opción monitor cerca de la esquina superior izquierda, donde se mostrarán más opciones como se muestra a continuación: 
 
 <img width="1600" height="1204" alt="image" src="https://github.com/user-attachments/assets/2b93ee16-041b-4b3d-87d3-6b9a6409be43" />
 
@@ -77,7 +77,7 @@ Cabe mencionar que los  EMP anteriores se refieren a la exactitud del monitor cu
 
 <img width="1449" height="1289" alt="image" src="https://github.com/user-attachments/assets/373c2e85-4e3a-4864-a8e7-2aa30493a54b" />
 
-_(Fig 3. Ubicación PPG en el  OxSim OX-1.)_
+_(Fig 3. Ubicación PPG en el OxSim OX-1.)_
 
 ### A) Simulación paciente bradicardia (40 bpm, SpO2 = 95%) 
 
@@ -127,7 +127,7 @@ _(Fig 11. Tabla de errores simulación low perf.)_
 
 _(Fig 12. Monitor simulación taquicardia.)_
 
-<img width="1191" height="241" alt="image" src="https://github.com/user-attachments/assets/06aa2896-cc54-4f2f-9fcd-ff1b68876398" />
+<img width="1192" height="241" alt="image" src="https://github.com/user-attachments/assets/3c0ec03b-b41a-445e-8e80-b642329180b1" />
 
 _(Fig 13. Tabla de errores simulación taquicardia.)_
 
