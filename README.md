@@ -174,7 +174,7 @@ En cualquier caso, el error presentado es clínicamente insignificante, tanto en
 
 Para este primer análisis buscamos cuantificar  la exactitud del monitor al medir la frecuencia cardíaca (HR) y la saturación de oxígeno (SpO₂) en los modos descritos en la sección anterior, de forma que se buscará evaluar los parámetros de error absoluto medio (MAE), error porcentual medio (MPE), desviación estandar del error y el máximo error absoluto. Todo lo anterior se evidencia en la siguiente tabla:
 
-<img width="962" height="432" alt="image" src="https://github.com/user-attachments/assets/67f76327-f070-4044-b5f1-ecd50056ad92" />
+<img width="957" height="430" alt="image" src="https://github.com/user-attachments/assets/46c66896-a79e-4e09-8e98-c9c682c0cd37" />
 
 _(Fig 14. Tabla resultados estadísticos.)_
 
